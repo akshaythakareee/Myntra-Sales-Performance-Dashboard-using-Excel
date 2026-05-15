@@ -1,14 +1,4 @@
-images(myntra.png)
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Myntra-Sales%20Dashboard-FF3E6C?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Excel-Pivot%20Dashboard-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Records-12%2C000%20Orders-0066FF?style=for-the-badge"/>
-
-<br/><br/>
 
 # 🛍️ Myntra Sales Analytics Dashboard
 
