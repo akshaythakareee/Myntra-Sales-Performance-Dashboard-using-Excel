@@ -1,3 +1,5 @@
+images(myntra.png)
+
 <div align="center">
 
 <img src="https://img.shields.io/badge/Myntra-Sales%20Dashboard-FF3E6C?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
