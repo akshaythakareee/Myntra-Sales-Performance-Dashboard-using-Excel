@@ -26,6 +26,18 @@ This project is an end-to-end **Excel Sales Dashboard** built on a Myntra e-comm
 
 ---
 
+## 🖼️ Dashboard Preview
+
+<div align="center">
+
+![Myntra Sales Analysis Dashboard](myntra.png)
+
+*Interactive Excel dashboard with slicers for Order Date, State, Sale Type, Payment Mode, and Product Category*
+
+</div>
+
+---
+
 ## 📊 Dashboard Highlights
 
 | Metric | Value |
@@ -155,6 +167,3 @@ Feel free to open an issue or reach out if you have questions, suggestions, or w
 ---
 
 <div align="center">
-
-
-</div>
