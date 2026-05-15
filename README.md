@@ -156,10 +156,5 @@ Feel free to open an issue or reach out if you have questions, suggestions, or w
 
 <div align="center">
 
-⭐ **If you found this useful, drop a star!** ⭐
-
-<img src="https://img.shields.io/badge/Made%20with-Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Domain-E--Commerce%20Analytics-FF3E6C?style=flat-square"/>
 
 </div>
