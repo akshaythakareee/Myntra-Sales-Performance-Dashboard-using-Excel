@@ -162,6 +162,19 @@ Each row represents a single order with **19 columns**:
 
 ---
 
+## 👨‍💻 About Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-akshaythakareee-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akshaythakareee)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshaythakareee)
+
+*Building dashboards that make data analysis accessible, automated, and actionable* 🤖
+
+</div>
+
+---
+
 ## 📬 Contact
 
 Feel free to open an issue or reach out if you have questions, suggestions, or want to collaborate!
@@ -169,3 +182,7 @@ Feel free to open an issue or reach out if you have questions, suggestions, or w
 ---
 
 <div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:333333,50:1A1A1A,100:000000&height=120&section=footer&animation=fadeIn" />
+
+</div>
